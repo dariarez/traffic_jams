@@ -4,7 +4,7 @@ from datetime import datetime
 import datetime
 
 
-api_key = 'AIzaSyDRGeAIriYPPo9zJDh7P5IVjd2y0_b3xnI'
+api_key = 'key'
 
 location = input("Enter city you want, to know situation about traffic) ")
 
